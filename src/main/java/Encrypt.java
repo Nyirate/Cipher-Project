@@ -28,6 +28,8 @@ public class Encrypt {
 
             }
         }
+//        System.out.println("Encrypted Word is " + encryptedword);
+
     }
 }
 
