@@ -21,12 +21,22 @@ public class Encrypt {
                 sa = (char) (sa + cle);
 
                 if (sa > 'z') {
-                    sa = (char) (sa - 'z' + 'a' - 1);
+                    sa = (char) (sa + 'a'-'z' - 1);
                 }
 
                 encryptedword += sa;
 
             }
+            else if(sa >= 'A' && sa <= 'Z'){
+                sa = (char)(sa + cle);
+
+                if(sa > 'Z'){
+                    sa = (char)(sa + 'A'-'Z' - 1);
+                }
+
+                encryptedword += sa;
+        }
+
         }
         System.out.println("Encrypted Word is " + encryptedword);
 
