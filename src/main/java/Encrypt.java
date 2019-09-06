@@ -28,7 +28,7 @@ public class Encrypt {
 
             }
         }
-//        System.out.println("Encrypted Word is " + encryptedword);
+        System.out.println("Encrypted Word is " + encryptedword);
 
     }
 }
