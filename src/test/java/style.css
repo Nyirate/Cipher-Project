@@ -10,3 +10,12 @@ font-size:25px;
 h1{
 font-family: 'Lobster', cursive;
 }
+
+.foot{
+  margin-top:15%;
+  color:black;
+  bottom:0;
+  width:100%;
+  text-align:center;
+  font-family: 'Lobster', cursive;
+}
