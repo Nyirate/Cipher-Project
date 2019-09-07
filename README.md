@@ -18,7 +18,14 @@ Emma NYIRATE
  
  ##  GitHub Link
  
+ ## Known Bugs
+ 
+ No Bugs
  
  ##  Technologies Used
  
  Java,HTML and CSS
+ 
+ ## License
+ 
+Approved by MIT and Moringa School
