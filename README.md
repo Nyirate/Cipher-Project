@@ -17,7 +17,8 @@ Emma NYIRATE
  You need an input form where you enter your word or message,and an encrypt button where you will click in order to get your encrypted version
  
  ##  GitHub Link
- 
+  https://github.com/Nyirate/Cipher-Project
+  
  ## Known Bugs
  
  No Bugs
