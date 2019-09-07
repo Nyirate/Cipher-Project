@@ -8,7 +8,7 @@ public class Encrypt {
         String cyphertext = " ";
         Scanner emma = new Scanner(System.in);
 
-        System.out.println("Your message: ");
+        System.out.println("Your word: ");
         word = emma.nextLine();
 
         System.out.println("The shift: ");
