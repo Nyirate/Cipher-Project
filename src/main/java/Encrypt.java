@@ -5,14 +5,14 @@ public class Encrypt {
         String word;
         int cle;
         char sa;
-        String encryptedword = " ";
-        Scanner sc = new Scanner(System.in);
+        String cyphertext = " ";
+        Scanner emma = new Scanner(System.in);
 
-        System.out.println("Enter a word: ");
-        word = sc.nextLine();
+        System.out.println("Your message: ");
+        word = emma.nextLine();
 
-        System.out.println("Enter key: ");
-        cle = sc.nextInt();
+        System.out.println("The shift: ");
+        cle = emma.nextInt();
 
         for (int i = 0; i < word.length(); ++i) {
             sa = word.charAt(i);
@@ -24,7 +24,7 @@ public class Encrypt {
                     sa = (char) (sa + 'a'-'z' - 1);
                 }
 
-                encryptedword += sa;
+                cyphertext += sa;
 
             }
             else if(sa >= 'A' && sa <= 'Z'){
@@ -34,11 +34,11 @@ public class Encrypt {
                     sa = (char)(sa + 'A'-'Z' - 1);
                 }
 
-                encryptedword += sa;
+               cyphertext += sa;
         }
 
         }
-        System.out.println("Encrypted Word is " + encryptedword);
+        System.out.println("Encrypted Word is " + cyphertext);
 
     }
 }
