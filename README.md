@@ -27,6 +27,10 @@ Emma NYIRATE
  
  Java,HTML and CSS
  
+ ## Photos of Codes 
+ 
+ <img src="Photo/cipher.png">
+ <img src="Photo/caesar.png">
  ## License
  
 Approved by MIT and Moringa School
