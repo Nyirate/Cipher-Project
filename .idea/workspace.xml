@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d067587-9957-4615-8acd-38d843613ca0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Photo/Screenshot from 2019-09-09 16-11-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Photo/caesar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Photo/cipher.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Decrypt.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/CaesarCipher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
